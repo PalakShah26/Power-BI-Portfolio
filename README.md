@@ -2,7 +2,6 @@
 
 This repository presents some dashboards and analyzes made using the Power BI software for various purposes.
 
-Introduction:
 As a part of my Power BI porfolio, I will implement Power BI in different sample data sets to create Power Bi Reports. All the data, names used in this portfolio are altered.The skills and technical knowledge applied are as below :
 
   -Perform ETL using power query.
